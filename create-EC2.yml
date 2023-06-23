@@ -12,7 +12,7 @@
      wait: yes
      group: webserver
      count: 1
-     region: us-west-2
+     region: us-west-1
      security_group: ec2-security-group
    
    tasks:
